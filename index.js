@@ -5,7 +5,7 @@ var BOB = {
 }
 var boyu = {
     odCode: '9797176',
-    h5Url: 'https://www.boyu480.com:35554/entry/register/?i_code=9797176',
+    h5Url: 'https://www.boyu382.com:30112/entry/register/?i_code=9797176',
     pcUrl: 'https://www.boyu1065.com:34225/register/?i_code=9797176',
     }
 
